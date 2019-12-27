@@ -2,3 +2,7 @@ __pycache__/
 data/
 env/
 .idea/
+.vscode/
+outputs/
+runs/
+cache_dir/
